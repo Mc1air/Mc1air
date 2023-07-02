@@ -1,9 +1,8 @@
 ### Hi there, 👋
 ### I'm Anatasiya Rivera - Junior Data Scientist
 
-### My CV:
-[<img align="left" alt="mc1air | Resume" width="30px" src="https://img.icons8.com/?size=512&id=44834&format=png" />][resume]    
-
+#### My CV:
+[<img align="left" alt="mc1air | Resume" width="30px" src="https://img.icons8.com/?size=512&id=44834&format=png" />][resume]       
          
 #### Connect with me:
 [<img align="left" alt="mc1air | Twitter" width="30px" src="https://img.icons8.com/?size=512&id=5MQ0gPAYYx7a&format=png" />][twitter]
