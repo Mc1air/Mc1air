@@ -3,7 +3,7 @@
 
 #### My CV:
 [<img align="left" alt="mc1air | Resume" width="30px" src="https://img.icons8.com/?size=512&id=44834&format=png" />][resume]       
----    
+
 <br />
 
 #### Connect with me:
