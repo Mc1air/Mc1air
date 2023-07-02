@@ -1,10 +1,12 @@
-### Hi there 👋
+### Hi there, 👋
+### I'm Anatasiya Rivera - Junior Data Scientist
+
+### Connect with me:
+[<img align="left" alt="mc1air | Twitter" width="22px" src="https://drive.google.com/file/d/1rgCC6cfCf3MiPhzhNeBinrmZZHPyoW_f/view?usp=drive_link" />][twitter]
+[<img align="left" alt="mc1air | Instagram" width="22px" src="https://drive.google.com/file/d/15yPtsdpqBwGtP4O3eLR_qf_3bNOQIF9g/view?usp=drive_link" />][instagram]
+[<img align="left" alt="mc1air | Instagram" width="22px" src="https://drive.google.com/file/d/10hHAzfJjX-is6lWGf8UmI-b4wdmliaiU/view?usp=drive_link" />][telegram]
 
 <!--
-**Mc1air/Mc1air** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -14,3 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[twitter]: https://twitter.com/Mclair_
+[instagram]: https://www.instagram.com/mclair_r/
+[telegram]: https://t.me/mclair_r
