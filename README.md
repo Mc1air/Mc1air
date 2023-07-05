@@ -19,6 +19,7 @@
 [<img align="left" alt="mc1air | Instagram" width="30px" src="https://img.icons8.com/?size=512&id=Xy10Jcu1L2Su&format=png" />][instagram]
 [<img align="left" alt="mc1air | Instagram" width="30px" src="https://img.icons8.com/?size=512&id=oWiuH0jFiU0R&format=png" />][telegram]
 
+<br />
 
 ![](https://komarev.com/ghpvc/?username=Mc1air&style=plastic&label=profile+views&color=blue)
 
