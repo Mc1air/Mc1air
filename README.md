@@ -21,8 +21,9 @@
 
     
 <br />
-
 ![](https://komarev.com/ghpvc/?username=Mc1air&style=plastic&label=profile+views&color=blue)
+
+<br />
 
 [resume]: https://drive.google.com/file/d/1w_60I8TMr5xo15A1bbPVZ5Y2oslVRlD_/view?usp=sharing
 [twitter]: https://twitter.com/Mclair_
