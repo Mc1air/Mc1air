@@ -19,6 +19,7 @@
 [<img align="left" alt="mc1air | Instagram" width="30px" src="https://img.icons8.com/?size=512&id=Xy10Jcu1L2Su&format=png" />][instagram]
 [<img align="left" alt="mc1air | Instagram" width="30px" src="https://img.icons8.com/?size=512&id=oWiuH0jFiU0R&format=png" />][telegram]
 
+<br />
 
 [resume]: https://drive.google.com/file/d/1w_60I8TMr5xo15A1bbPVZ5Y2oslVRlD_/view?usp=sharing
 [twitter]: https://twitter.com/Mclair_
